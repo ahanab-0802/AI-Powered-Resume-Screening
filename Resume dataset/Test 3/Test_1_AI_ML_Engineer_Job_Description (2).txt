@@ -1,0 +1,70 @@
+AI/ML ENGINEER InnoVision AI Technologies Pvt. Ltd. Location: Bengaluru,
+India Employment Type: Full-Time Experience: 0–2 Years
+
+JOB DESCRIPTION
+
+About the Role We are looking for an enthusiastic AI/ML Engineer to
+develop and implement machine learning and deep learning solutions for
+real-world applications. The role involves working across computer
+vision, natural language processing, predictive analytics, and
+intelligent automation, while contributing to the complete machine
+learning lifecycle from data preprocessing to model development,
+evaluation, and deployment.
+
+Key Responsibilities • Develop machine learning models for
+classification, regression, prediction, and pattern recognition tasks. •
+Perform data preprocessing, cleaning, exploratory data analysis, feature
+engineering, and model evaluation. • Apply supervised and unsupervised
+learning techniques to business and technical problems. • Work on
+computer vision applications involving image and video processing,
+feature extraction, object detection, image classification, and pose
+estimation. • Develop NLP solutions for text classification, information
+extraction, semantic analysis, and other language-related tasks. • Use
+Python and libraries such as NumPy, Pandas, Scikit-learn, OpenCV, and
+other AI/ML frameworks. • Build and evaluate machine learning pipelines
+using appropriate metrics and validation techniques. • Integrate trained
+AI/ML models into applications and APIs. • Work with databases and
+structured datasets for storing and processing application data. •
+Collaborate with software engineers and other team members to convert
+AI/ML ideas into practical solutions. • Stay updated with emerging
+developments in artificial intelligence and machine learning.
+
+Required Qualifications • Bachelor’s degree in Computer Science,
+Artificial Intelligence, Machine Learning, Data Science, or a related
+field. • 0–2 years of academic, internship, or project experience in
+AI/ML. • Strong programming skills in Python. • Good understanding of
+machine learning fundamentals. • Knowledge of supervised and
+unsupervised learning. • Understanding of classification, regression,
+clustering, and model evaluation. • Experience with NumPy, Pandas, and
+Scikit-learn. • Understanding of data preprocessing, exploratory data
+analysis, and feature engineering. • Basic understanding of deep
+learning and neural networks. • Basic understanding of Natural Language
+Processing. • Strong problem-solving skills and understanding of Data
+Structures and Algorithms.
+
+Preferred Qualifications • Experience with Computer Vision. •
+Familiarity with OpenCV and MediaPipe. • Knowledge of TensorFlow, Keras,
+or PyTorch. • Understanding of CNNs and image classification. •
+Familiarity with NLP libraries or transformer-based models. • Knowledge
+of SQL and relational databases such as MySQL or PostgreSQL. •
+Experience with machine learning model deployment. • Familiarity with
+Git and GitHub. • Understanding of REST APIs or cloud-based deployment.
+
+Technical Skills Programming: Python, Java Machine Learning: Supervised
+Learning, Unsupervised Learning, Classification, Regression, Clustering,
+Model Evaluation Data Processing: NumPy, Pandas, Scikit-learn, Data
+Preprocessing, EDA, Feature Engineering Deep Learning: Neural Networks,
+Deep Learning Fundamentals Natural Language Processing: NLP
+Fundamentals, Text Classification, Information Extraction, Semantic
+Analysis Computer Vision: OpenCV, MediaPipe, Image Processing, Object
+Detection, Image Classification, Pose Estimation Databases: SQL, MySQL,
+PostgreSQL Core Computer Science: Data Structures and Algorithms,
+Object-Oriented Programming, DBMS, Operating Systems Tools: Git, GitHub,
+Jupyter Notebook Deployment: REST APIs, ML Model Deployment, Cloud
+Platforms
+
+What You Will Work On The selected candidate will contribute to AI/ML
+projects involving computer vision, NLP, predictive analytics, and
+intelligent automation. The candidate should be comfortable working with
+data, developing machine learning models, evaluating results, and
+integrating models into practical applications.

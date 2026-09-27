@@ -1,0 +1,46 @@
+JOB DESCRIPTION — Junior AI/ML Engineer
+
+Job Type: Full-Time | Entry Level
+
+About the Role:
+We are looking for an entry-level AI/ML Engineer with a strong foundation in Python, Java, machine learning, and data analysis. The candidate will work on developing machine learning solutions, preprocessing datasets, building predictive models, and evaluating model performance.
+
+Required Skills:
+Python
+Java
+SQL
+Machine Learning
+Deep Learning
+Data Structures
+Object-Oriented Programming
+Database Management Systems
+Git
+GitHub
+REST APIs
+Problem Solving
+
+Preferred Skills:
+Pandas
+NumPy
+Scikit-learn
+TensorFlow
+Docker
+AWS
+Data Visualization
+Statistics
+Feature Engineering
+
+Responsibilities:
+- Develop and test machine learning solutions.
+- Preprocess and analyze datasets.
+- Build predictive models.
+- Evaluate model performance using appropriate metrics.
+- Work with databases and APIs.
+- Collaborate with team members on AI/ML projects.
+- Document technical work and results.
+
+Education:
+Bachelor's degree in Computer Science, Artificial Intelligence, Machine Learning, Information Technology, or a related field.
+
+Candidate Profile:
+Entry-level candidates with academic projects, internships, or practical experience in AI/ML are welcome.
